@@ -14,6 +14,11 @@ public class TestingAbv {
     private WebDriver driver;
 
 
+    @org.testng.annotations.Test
+    public void testName() throws Exception {
+
+    }
+
     @After
     public void TearDown()
     {
